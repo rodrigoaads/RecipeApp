@@ -1,6 +1,7 @@
 # RecipeApp
 
-![FlutterRecipe-1](https://github.com/user-attachments/assets/dd294138-63e9-4b83-b33e-1daf1b31e844)
+
+<img src="https://github.com/user-attachments/assets/dd294138-63e9-4b83-b33e-1daf1b31e844" width=40% height=40%>
 
 ## Getting Started
 
